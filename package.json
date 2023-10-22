@@ -8,6 +8,7 @@
   "description": "",
   
   "version": "1.0.0",
+  "homepage": "https://IrynaSokolovska.github.io/goit-typescript-hw/",
   "main": "index.js",
   "dependencies": {
     "array-union": "^2.1.0",
